@@ -1,0 +1,38 @@
+﻿  FileName.c
+D:\bong\0423\0423\FileName.c(70,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  D:\bong\0423\0423\FileName.c(70,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+D:\bong\0423\0423\FileName.c(71,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  D:\bong\0423\0423\FileName.c(71,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+D:\bong\0423\0423\FileName.c(72,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  D:\bong\0423\0423\FileName.c(72,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+D:\bong\0423\0423\FileName.c(73,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  D:\bong\0423\0423\FileName.c(73,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+D:\bong\0423\0423\FileName.c(74,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  D:\bong\0423\0423\FileName.c(74,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+D:\bong\0423\0423\FileName.c(75,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  D:\bong\0423\0423\FileName.c(75,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+D:\bong\0423\0423\FileName.c(77,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  D:\bong\0423\0423\FileName.c(77,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+D:\bong\0423\0423\FileName.c(78,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  D:\bong\0423\0423\FileName.c(78,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+D:\bong\0423\0423\FileName.c(79,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  D:\bong\0423\0423\FileName.c(79,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+  0423.vcxproj -> D:\bong\0423\x64\Debug\0423.exe
