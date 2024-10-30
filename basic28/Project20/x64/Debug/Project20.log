@@ -1,0 +1,6 @@
+﻿  CirculrLinkeLit.c
+  ex4_3.c
+  코드를 생성하고 있습니다...
+D:\bong\Project20\Project20\ex4_3.c(9,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\bong\Project20\Project20\ex4_3.c(30,2): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project20.vcxproj -> D:\bong\Project20\x64\Debug\Project20.exe
