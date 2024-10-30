@@ -1,0 +1,2 @@
+﻿  FileName.c
+D:\bong\Project25\Project25\FileName.c(3,10): error C1083: 포함 파일을 열 수 없습니다. 'SimpleDHT.h': No such file or directory
